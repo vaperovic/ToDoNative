@@ -1,6 +1,6 @@
 # Webstorm
 .idea
-
+.jest/*
 # OSX
 #
 .DS_Store
